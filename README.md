@@ -1,5 +1,5 @@
 🎯 Hi, I'm Ahad — Odoo Developer & Technical Consultant
-🔧 10+ years experience in Odoo | Python | OWL | JavaScript | PostgreSQL
+🔧 20+ years experience in Odoo | Python | OWL | JavaScript | PostgreSQL
 
 💼 Specialized in:
 
