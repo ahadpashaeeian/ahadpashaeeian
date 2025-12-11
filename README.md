@@ -5,7 +5,7 @@
 
 Custom Odoo module development
 
-Odoo 12–17 migration
+Odoo 12–19 migration
 
 API Integration
 
