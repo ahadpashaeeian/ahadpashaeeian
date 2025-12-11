@@ -24,3 +24,8 @@ Odoo ORM Best Practices
 Migrating Modules to Odoo 17
 JavaScript in Odoo (OWL Tips)
 
+📫 Contact
+
+💼 Email: ahad.pashayan@email.com
+💬 Telegram: @ap82778
+🌐 Website: pashaodoo.ir
